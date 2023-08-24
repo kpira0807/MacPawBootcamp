@@ -1,0 +1,12 @@
+strings:
+  inputs: MacPawBootcamp/Resources
+  outputs:
+    - templateName: structured-swift4
+      output: MacPawBootcamp/Resources/SwiftGen/strings.swift
+xcassets:
+  inputs:
+    - MacPawBootcamp/Resources/Assets.xcassets
+  outputs:
+    - templateName: swift4
+      output: MacPawBootcamp/Resources/SwiftGen/assets.swift
+

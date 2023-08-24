@@ -1,0 +1,6 @@
+framework module Pods_MacPawBootcamp {
+  umbrella header "Pods-MacPawBootcamp-umbrella.h"
+
+  export *
+  module * { export * }
+}
